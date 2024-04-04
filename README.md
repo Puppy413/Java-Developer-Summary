@@ -1,2 +1,4 @@
-# Leetcode_Summary
-这是我在Leetcode上刷的题目，总结在一个md文件中，方法可能不是最优的，但是便于理解。所有题目均通过，后期会持续更新
+# Java-Developer-Summary
+Mr.puppy's Java Developer experiences. It contains my leetcode's notes, projects' notes, my resumes in different stages etc.
+Please give me some advice for Java Developer
+
